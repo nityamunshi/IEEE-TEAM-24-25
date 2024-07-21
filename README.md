@@ -2,7 +2,7 @@
 
 This repository will contain details of all the team members of the organization
 
-Format :- [firstname-lastname](linkedin profile link)
+Format :- [firstname-lastname](linkedin profile link).
 
 ## Core Team
 
