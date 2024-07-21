@@ -14,6 +14,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Vaishnavi Singh](https://www.linkedin.com/in/vaishnavi-singh-bb2503253/ "Open linkedin") Multimedia Head 24-25
 
+[Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
+
 ## Execom Team
 
 
