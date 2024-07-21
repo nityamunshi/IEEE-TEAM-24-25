@@ -12,6 +12,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Hritesh Maikap](https://www.linkedin.com/in/hritesh-maikap-7aaa76246/ "Open linkedin") Project Head 24-25
 
+[Vaishnavi Singh](https://www.linkedin.com/in/vaishnavi-singh-bb2503253/ "Open linkedin") Multimedia Head 24-25
+
 ## Execom Team
 
 
