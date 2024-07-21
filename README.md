@@ -18,7 +18,7 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
 
-[Ishita Jasuja]("https://www.linkedin.com/in/ishita-jasuja-52286b257/") Vice Chairperson 24-25
+[Ishita Jasuja](https://www.linkedin.com/in/ishita-jasuja-52286b257/) Vice Chairperson 24-25
 
 
 ## Execom Team
