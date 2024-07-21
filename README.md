@@ -12,6 +12,8 @@ Format :- [firstname-lastname](linkedin profile link)
 
 [Hritesh Maikap](https://www.linkedin.com/in/hritesh-maikap-7aaa76246/ "Open linkedin") Project Head 24-25
 
+[Nishant Lanjewar](https://www.linkedin.com/in/nishant-lanjewar-838248252/ "Open linkedin") Coding Club Head 24-25
+
 ## Execom Team
 
 
