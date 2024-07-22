@@ -49,5 +49,5 @@ Format :- [firstname-lastname](linkedin profile link).
 
 ## Execom Team
 
-
+[Sudhakar Shinde](https://www.linkedin.com/in/sudhakar2905/ "Click to open linkedin profile") Execom 24-25
 
