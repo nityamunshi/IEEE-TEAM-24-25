@@ -30,28 +30,21 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Execom Team
+
+[Dhanashree Petare](https://www.linkedin.com/in/dhanashree-petare-35786b28a/) ExeCom 24-25
 
 [Sahishnu G](https://www.linkedin.com/in/sahishnu-g-6a245230a/ "Click to open linkedin profile") Execom Technical 24-25
 
 [Sudhakar Shinde](https://www.linkedin.com/in/sudhakar2905/ "Click to open linkedin profile") Execom 24-25
 
-[Arya M](https://www.linkedin.com/in/ishita-jasuja-52286b257/) Exe Com
+[Swastik Jha](https://www.linkedin.com/in/swastik-jha-7b49b0290/ "Click to open linkedin profile") Execom 2024-25
+
+[Nainish Jaiswal](https://www.linkedin.com/in/nainish-jaiswal-b6939b301/ "Click to open linkdin profile") Execom PR-SM 24-25
+
+[Arya Manve](www.linkedin.com/in/arya-manve-56a352283/ "Open linkedin") Exe Com Management 24-25
+
+[Unnati Vaidya](https://www.linkedin.com/in/unnativaidya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) Execom 24-25
 
 [Yash Kale](https://www.linkedin.com/in/yash-kale-239030298/) Execom 24-25
+
