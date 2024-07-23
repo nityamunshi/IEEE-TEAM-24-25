@@ -49,5 +49,6 @@ Format :- [firstname-lastname](linkedin profile link).
 
 ## Execom Team
 
+[Dhanashree Petare](https://www.linkedin.com/in/dhanashree-petare-35786b28a/) ExeCom 24-25
 
 
