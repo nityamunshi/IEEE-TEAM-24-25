@@ -50,5 +50,6 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Sahishnu G](https://www.linkedin.com/in/sahishnu-g-6a245230a/ "Click to open linkedin profile") Execom Technical 24-25
 
+[Sudhakar Shinde](https://www.linkedin.com/in/sudhakar2905/ "Click to open linkedin profile") Execom 24-25
 
 
