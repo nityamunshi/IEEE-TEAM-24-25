@@ -52,4 +52,4 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Sudhakar Shinde](https://www.linkedin.com/in/sudhakar2905/ "Click to open linkedin profile") Execom 24-25
 
-
+[Arya M](https://www.linkedin.com/in/ishita-jasuja-52286b257/) Exe Com
