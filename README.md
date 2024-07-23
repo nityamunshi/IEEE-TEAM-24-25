@@ -30,22 +30,6 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Execom Team
 
 [Sahishnu G](https://www.linkedin.com/in/sahishnu-g-6a245230a/ "Click to open linkedin profile") Execom Technical 24-25
@@ -53,3 +37,5 @@ Format :- [firstname-lastname](linkedin profile link).
 [Sudhakar Shinde](https://www.linkedin.com/in/sudhakar2905/ "Click to open linkedin profile") Execom 24-25
 
 [Arya M](https://www.linkedin.com/in/ishita-jasuja-52286b257/) Exe Com
+
+[Nainish Jaiswal](https://www.linkedin.com/in/nainish-jaiswal-b6939b301/ "Click to open linkdin profile") Execom PR-SM 24-25
