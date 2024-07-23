@@ -44,3 +44,5 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Arya Manve](www.linkedin.com/in/arya-manve-56a352283/ "Open linkedin") Exe Com Management 24-25
 
+[Unnati Vaidya](https://www.linkedin.com/in/unnativaidya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) Execom 24-25
+
