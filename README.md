@@ -30,7 +30,7 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
 
-# Execom
+
 
 [Swastik Jha](https://www.linkedin.com/in/swastik-jha-7b49b0290/ "Click to open linkedin profile") 
 
