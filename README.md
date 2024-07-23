@@ -46,3 +46,5 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Unnati Vaidya](https://www.linkedin.com/in/unnativaidya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) Execom 24-25
 
+[Yash Kale](https://www.linkedin.com/in/yash-kale-239030298/) Execom 24-25
+
