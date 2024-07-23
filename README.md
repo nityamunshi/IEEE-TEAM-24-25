@@ -30,7 +30,11 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
 
+
 ## Execom Team
+
+
+[Dhanashree Petare](https://www.linkedin.com/in/dhanashree-petare-35786b28a/) ExeCom 24-25
 
 [Sahishnu G](https://www.linkedin.com/in/sahishnu-g-6a245230a/ "Click to open linkedin profile") Execom Technical 24-25
 
