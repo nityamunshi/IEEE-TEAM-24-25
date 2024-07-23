@@ -30,9 +30,7 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Soham Sachin Nimale](https://www.linkedin.com/in/soham-nimale-500692257/ "Click to open linkedin profile") Research Head 24-25
 
-
 ## Execom Team
-
 
 [Dhanashree Petare](https://www.linkedin.com/in/dhanashree-petare-35786b28a/) ExeCom 24-25
 
@@ -42,4 +40,7 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Arya M](https://www.linkedin.com/in/ishita-jasuja-52286b257/) Exe Com
 
+[Swastik Jha](https://www.linkedin.com/in/swastik-jha-7b49b0290/ "Click to open linkedin profile") Execom 2024-25
+
 [Nainish Jaiswal](https://www.linkedin.com/in/nainish-jaiswal-b6939b301/ "Click to open linkdin profile") Execom PR-SM 24-25
+
