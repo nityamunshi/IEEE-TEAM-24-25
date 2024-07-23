@@ -24,4 +24,4 @@ Format :- [firstname-lastname](linkedin profile link).
 ## Execom Team
 
 
-[Arya M](https://www.linkedin.com/in/ishita-jasuja-52286b257/) Exe Com
+[Arya Manve](www.linkedin.com/in/arya-manve-56a352283/ "Open linkedin") Exe Com Management 24-25
