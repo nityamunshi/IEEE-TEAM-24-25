@@ -48,3 +48,6 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Yash Kale](https://www.linkedin.com/in/yash-kale-239030298/) Execom 24-25
 
+[Siddharth Mane](https://www.linkedin.com/in/siddharth-mane-854491299/) Execom 24 - 25 Technical
+
+
