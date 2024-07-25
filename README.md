@@ -48,3 +48,4 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Yash Kale](https://www.linkedin.com/in/yash-kale-239030298/) Execom 24-25
 
+[Nitya Munshi](https://www.linkedin.com/in/nitya-munshi-710571280/) Exe Com 24-25
