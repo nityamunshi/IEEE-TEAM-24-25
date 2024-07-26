@@ -62,3 +62,4 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Atharav Kasture](https://www.linkedin.com/in/atharav-kasture-ab024b2bb/) Execom 24-25
 
+[Nitya Munshi](https://www.linkedin.com/in/nitya-munshi-710571280/) Execom 24-25
