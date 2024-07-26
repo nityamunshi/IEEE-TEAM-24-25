@@ -50,3 +50,6 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Utkatsha Kavitake](https://www.linkedin.com/in/utkarsha-kavitake-8457a42b5/) Execom 24-25
 
+[Atharav Kasture](https://www.linkedin.com/in/atharav-kasture-ab024b2bb/) Execom 24-25
+
+
