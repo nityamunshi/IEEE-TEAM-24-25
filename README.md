@@ -48,6 +48,8 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Yash Kale](https://www.linkedin.com/in/yash-kale-239030298/) Execom 24-25
 
+[Prathamesh Anvekar](https://www.linkedin.com/in/prathamesh-anvekar-970170297/ "Open linkedin") ExeCom Management 24-25
+
 [Ayush Girathe](https://www.linkedin.com/in/ayush-girathe-19a637289/ "Click to open linkedin profile") Execom 24-25
 
 [Utkatsha Kavitake](https://www.linkedin.com/in/utkarsha-kavitake-8457a42b5/) Execom 24-25
