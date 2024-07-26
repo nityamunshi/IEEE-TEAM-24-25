@@ -48,6 +48,8 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Yash Kale](https://www.linkedin.com/in/yash-kale-239030298/) Execom 24-25
 
+[Siddharth Mane](https://www.linkedin.com/in/siddharth-mane-854491299/) Execom 24 - 25 Technical
+
 [Yogiraj chaukhande](https://www.linkedin.com/in/yogiraj-chaukhande-340aa52a4/). Execom 24-25
 
 [Prathamesh Anvekar](https://www.linkedin.com/in/prathamesh-anvekar-970170297/ "Open linkedin") ExeCom Management 24-25
@@ -57,5 +59,6 @@ Format :- [firstname-lastname](linkedin profile link).
 [Utkatsha Kavitake](https://www.linkedin.com/in/utkarsha-kavitake-8457a42b5/) Execom 24-25
 
 [Atharav Kasture](https://www.linkedin.com/in/atharav-kasture-ab024b2bb/) Execom 24-25
+
 
 
